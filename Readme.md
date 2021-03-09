@@ -9,14 +9,6 @@ If you can complete all of these tasks you can proclaim yourself a Professional 
 
 Build a clone of Github Issues and Projects but for AWS CodeCommit.
 
-#### 
-
-#### Single Sign-On
-
-
-
-# Globally Avaliable and Distributed Database
-
 - Solution Architecting
   - Technical Diagaram
   - Technical Roadmap
