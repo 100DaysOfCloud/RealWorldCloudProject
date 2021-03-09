@@ -27,6 +27,11 @@ Build a clone of Github Issues and Projects but for AWS CodeCommit.
   - Queueing
   - Code Management
   - Globally Avaliable, Distrubuted Database
+  - Sythentic Testing
+  - Instrumentation and Monitoring
+  - Queueing
+  - Decenteralized Authenication
+  - Accessibility
 - Security
   - Principle of Least Permission (PolP)
   - MFA Hardware Device
@@ -37,15 +42,10 @@ Build a clone of Github Issues and Projects but for AWS CodeCommit.
   - Tagging and Resource Groups
   - Single Sign On
   - Inventory
-- Development
-  - Sythentic Testing
-  - Instrumentation and Monitoring
-  - Queueing
-  - Decenteralized Authenication
-  - Accessibility
 - Product Marketing
   - Marketing Email/SMS Notifications
   - Conversion Tracking
+  - Jamstack Website
 
 # Solution Architecting
 
